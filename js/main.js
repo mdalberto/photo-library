@@ -1,205 +1,161 @@
 // For Ajax testing
 var json = [{
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266707_tumblr_moaebdyiek1sqmj1zo1_500.jpg"
+    "title": "hospital",
+    "image": "images/2015/IMG_9363-s.jpg"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "title": "",
+    "image": "images/2015/IMG_9575-s.jpg"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/IMG_0975-s.jpg"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/IMG_9460-s.jpg"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/IMG_9478-s.jpg"
+}, {
+    "width": "230",
+    "height": "300",
+    "image": "images/2015/IMG_9469-s.jpg"
+}, {
+    "width": "230",
+    "height": "300",
+    "image": "images/2015/IMG_9754-s.jpg"
 }, {
 
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/IMG_1037-s.jpg"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/IMG_9559-s.jpg"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/IMG_9447-s.jpg"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/IMG_1021-s.jpg"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/IMG_1006-s.jpg"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/IMG_0984-s.jpg"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/IMG_0981-s.jpg"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/"
+
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/"
+
 }, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images3.wookmark.com/266762_tumblr_mnu25rktj61ro1zebo1_500.jpg"
+    "image": "images/2015/"
 }, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/"
 }, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images3.wookmark.com/266762_tumblr_mnu25rktj61ro1zebo1_500.jpg"
+    "image": "images/2015/"
 }, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/"
 }, {
-    "width": "200",
-    "height": "200",
-    "image": "http://images2.wookmark.com/267766_tumblr_mocaf2myso1r46py4o1_1280.jpg"
-}, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images2.wookmark.com/266821_tumblr_mn3a90g2pu1rbaqo5o1_500.jpg"
+    "image": "images/2015/"
 }, {
-    "width": "200",
+    "width": "230",
     "height": "300",
-    "image": "http://images3.wookmark.com/266762_tumblr_mnu25rktj61ro1zebo1_500.jpg"
+    "image": "images/2015/"
+}, {
+    "width": "230",
+    "height": "300",
+    "image": "images/2015/"
+}, {
+    "width": "230",
+    "height": "300",
+    "image": "images/2015/"
+}, {
+    "width": "230",
+    "height": "300",
+    "image": "images/2015/"
+}, {
+    "width": "230",
+    "height": "300",
+    "image": "images/2015/"
+}, {
+    "width": "230",
+    "height": "300",
+    "image": "images/2015/"
+}, {
+    "width": "230",
+    "height": "300",
+    "image": "images/2015/"
+}, {
+    "width": "230",
+    "height": "300",
+    "image": "images/2015/"
+}, {
+    "width": "230",
+    "height": "300",
+    "image": "images/2015/"
 }];
 
 
@@ -231,8 +187,10 @@ $(document).ready(function () {
  
         newElements +=
             '<div class="box">' +
+            '<a href="' + value['image'] + ' " data-lightbox=" ' + value['image'] + ' "  data-title="' + value['title'] + ' "  >' +
             '<img class="lazy" src="' + small_img + '" data-original="' + value['image'] + '" width="' + value['width'] + '" height="' + value['height'] + '" style="width:'+value['width']+'px; height:'+value['height']+'px"/>' +
-            '</div>';
+            '</div>' +
+            '</a>';
     });
 
     var $newElems = $(newElements);

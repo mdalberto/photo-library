@@ -4,3 +4,12 @@ body {
     padding-top: 60px;
 }
 
+.navbar{
+	min-height: 0px;
+}
+
+.navbar-brand{
+	height:auto;
+	padding:5px;
+	font-size: 14px;
+}
